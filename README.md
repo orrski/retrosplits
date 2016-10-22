@@ -23,3 +23,4 @@ Contents License: http://opendatacommons.org/licenses/dbcl/1.0/.
 
 The maintainer of this dataset is Dr Theodore Turocy, Chadwick
 Baseball Bureau; ted.turocy@gmail.com / http://www.chadwick-bureau.com.
+
